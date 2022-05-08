@@ -1,0 +1,1 @@
+# operador-BETWEEN-en-Oracle-SQL
